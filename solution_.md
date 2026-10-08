@@ -8,7 +8,8 @@ The title of the following papers pivotal to our knowledge, according to Google 
 
 ### plot and interpretation
 
-  import matplotlib
+<img width="621" height="453" alt="image" src="https://github.com/user-attachments/assets/afaf4361-8306-4619-a7c6-7268cefdc486" />
+
 
 
 
